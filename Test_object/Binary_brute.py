@@ -1,12 +1,19 @@
 
 def input_array(size, arr):
     pass
+
+
 def find_value_brut(val, arr):
     pass
+
+
 def find_value_bi(val,arr, mid):
     pass
+
+
 def test_location(val, arr, mid):
     pass
+
 
 def main():
     size_of_array = int(input("how big is array: ")) # all this can be one line actually
